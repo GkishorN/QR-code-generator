@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR code generator.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR_code_generator.Form1.resources
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR_code_generator.Form2.resources
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR_code_generator.Properties.Resources.resources
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR code generator.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR code generator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\QR code generator\QR code generator\bin\Debug\QR code generator.exe.config
+C:\Users\Dell\source\repos\QR code generator\QR code generator\bin\Debug\QR code generator.exe
+C:\Users\Dell\source\repos\QR code generator\QR code generator\bin\Debug\QR code generator.pdb
+C:\Users\Dell\source\repos\QR code generator\QR code generator\bin\Debug\QRCoder.dll
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR code generator.csproj.CopyComplete
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR code generator.exe
+C:\Users\Dell\source\repos\QR code generator\QR code generator\obj\Debug\QR code generator.pdb
